@@ -1,0 +1,282 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "brand": "Nike",
+      "namee": "Nike Dunk Low Retro",
+      "gender": "Men's Shoe",
+      "price": 20000,
+
+      "Imagemain" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png",
+      "variations": [
+        {
+          "sizes": [
+            {"id": 1, "value": "EU 1"},
+            {"id": 2, "value": "EU 2"},
+            {"id": 3, "value": "EU 3"},
+            {"id": 4, "value": "EU 4"},
+            {"id": 5, "value": "EU 5"},
+            {"id": 6, "value": "EU 6"},
+            {"id": 7, "value": "EU 7"},
+            {"id": 8, "value": "EU 8"},
+            {"id": 9, "value": "EU 9"},
+            {"id": 10, "value": "EU 10"}
+          ],
+        
+          "color": "Black",
+          "mainImage": "air_max_90_black.jpg",
+          "Images": [
+           {"id": 1, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 2, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0020927f-06be-4538-a827-1710509565bf/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 3, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04e8257e-7469-4635-b1d6-a8be32cced17/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 4, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c21c1dc-d534-48d0-aa5b-1c0b24e5638f/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 5, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32636faa-e96d-40b8-972e-f38350c61879/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 6, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/815e726c-98e1-4962-acbb-94449d2c7f9a/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 7, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/788d5b51-1709-4763-bbbe-433ed7a2663b/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 8, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0f7bbce-fefc-4b83-8de9-73175275a0fa/dunk-low-retro-shoe-66RGqF.png"}
+          ]
+         
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "brand": "Nike",
+      "namee": "Nike Dunk Low Retro",
+      "gender": "Men's Shoe",
+      "price": 20000,
+      "sizes": "EU 1"
+      
+      ,
+      "Imagemain" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png",
+      "variations": [
+        {
+          "color": "Black",
+          "mainImage": "air_max_90_black.jpg",
+          "Images": [
+           {"id": 1, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 2, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0020927f-06be-4538-a827-1710509565bf/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 3, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04e8257e-7469-4635-b1d6-a8be32cced17/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 4, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c21c1dc-d534-48d0-aa5b-1c0b24e5638f/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 5, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32636faa-e96d-40b8-972e-f38350c61879/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 6, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/815e726c-98e1-4962-acbb-94449d2c7f9a/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 7, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/788d5b51-1709-4763-bbbe-433ed7a2663b/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 8, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0f7bbce-fefc-4b83-8de9-73175275a0fa/dunk-low-retro-shoe-66RGqF.png"}
+          ]
+         
+        }
+      ]
+    },
+
+
+    {
+     "id": "4",
+      "brand": "Nike",
+      "namee": "Nike Dunk Low Retro",
+      "gender": "Men's Shoe",
+      "price": 20000,
+      "sizes": "EU 1",
+      
+      
+      "Imagemain" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png",
+      "variations": [
+        {
+          "color": "Black",
+          "mainImage": "air_max_90_black.jpg",
+          "Images": [
+           {"id": 1, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 2, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0020927f-06be-4538-a827-1710509565bf/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 3, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04e8257e-7469-4635-b1d6-a8be32cced17/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 4, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c21c1dc-d534-48d0-aa5b-1c0b24e5638f/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 5, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32636faa-e96d-40b8-972e-f38350c61879/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 6, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/815e726c-98e1-4962-acbb-94449d2c7f9a/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 7, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/788d5b51-1709-4763-bbbe-433ed7a2663b/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 8, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0f7bbce-fefc-4b83-8de9-73175275a0fa/dunk-low-retro-shoe-66RGqF.png"}
+          ]
+         
+        }
+      ]
+    },
+    {
+      "id": "4",
+       "brand": "Nike",
+       "namee": "Nike Dunk Low Retro",
+       "gender": "Men's Shoe",
+       "price": 20000,
+       "sizes": "EU 2",
+       
+       
+       "Imagemain" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png",
+       "variations": [
+         {
+           "color": "Black",
+           "mainImage": "air_max_90_black.jpg",
+           "Images": [
+            {"id": 1, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png"},
+            { "id": 2, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0020927f-06be-4538-a827-1710509565bf/dunk-low-retro-shoe-66RGqF.png"},
+            { "id": 3, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04e8257e-7469-4635-b1d6-a8be32cced17/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 4, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c21c1dc-d534-48d0-aa5b-1c0b24e5638f/dunk-low-retro-shoe-66RGqF.png"},
+           {"id": 5, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32636faa-e96d-40b8-972e-f38350c61879/dunk-low-retro-shoe-66RGqF.png"},
+           {"id": 6, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/815e726c-98e1-4962-acbb-94449d2c7f9a/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 7, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/788d5b51-1709-4763-bbbe-433ed7a2663b/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 8, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0f7bbce-fefc-4b83-8de9-73175275a0fa/dunk-low-retro-shoe-66RGqF.png"}
+           ]
+          
+         }
+       ]
+     },
+
+
+
+
+
+
+
+
+
+    {
+      "id": "2",
+      "brand": "Nike",
+      "namee": "Nike jordan1",
+      "gender": "Men's Shoe",
+      "price": 34000,
+
+      "Imagemain" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png",
+      "variations": [
+        {
+          "sizes": [
+            {"id": 1, "value": "EU 1"},
+            {"id": 2, "value": "EU 2"},
+            {"id": 3, "value": "EU 3"},
+            {"id": 4, "value": "EU 4"},
+            {"id": 5, "value": "EU 5"},
+            {"id": 6, "value": "EU 6"},
+            {"id": 7, "value": "EU 7"},
+            {"id": 8, "value": "EU 8"},
+            {"id": 9, "value": "EU 9"},
+            {"id": 10, "value": "EU 10"}
+          ],
+        
+          "color": "Black",
+          "mainImage": "air_max_90_black.jpg",
+          "Images": [
+           {"id": 1, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9cfd9c6d-59cb-4dac-af4f-1552ddc58d36/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 2, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0020927f-06be-4538-a827-1710509565bf/dunk-low-retro-shoe-66RGqF.png"},
+           { "id": 3, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04e8257e-7469-4635-b1d6-a8be32cced17/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 4, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c21c1dc-d534-48d0-aa5b-1c0b24e5638f/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 5, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32636faa-e96d-40b8-972e-f38350c61879/dunk-low-retro-shoe-66RGqF.png"},
+          {"id": 6, "value": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/815e726c-98e1-4962-acbb-94449d2c7f9a/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 7, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/788d5b51-1709-4763-bbbe-433ed7a2663b/dunk-low-retro-shoe-66RGqF.png"},
+          { "id": 8, "value":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0f7bbce-fefc-4b83-8de9-73175275a0fa/dunk-low-retro-shoe-66RGqF.png"}
+          ]
+         
+        }
+      ]
+    },
+
+
+
+
+    {
+      "id": "2",
+      "brand": "Adidas",
+      "name": "Ultra Boost",
+      "variations": [
+        {
+          "size": 9,
+          "gender": "Men",
+          "color": "White",
+          "mainImage": "ultra_boost_white.jpg",
+          "detailsImages": [
+            "ultra_boost_white_detail1.jpg",
+            "ultra_boost_white_detail2.jpg",
+            "ultra_boost_white_detail3.jpg",
+            "ultra_boost_white_detail4.jpg",
+            "ultra_boost_white_detail5.jpg",
+            "ultra_boost_white_detail6.jpg",
+            "ultra_boost_white_detail7.jpg",
+            "ultra_boost_white_detail8.jpg"
+          ],
+          "price": 150.99
+        }
+     
+      ]
+    },
+    {
+      "id": "4",
+      "brand": "Adidas",
+      "name": "Ultra Boost",
+      "variations": [
+        {
+          "size": 9,
+          "gender": "Men",
+          "color": "White",
+          "mainImage": "ultra_boost_white.jpg",
+          "detailsImages": [
+            "ultra_boost_white_detail1.jpg",
+            "ultra_boost_white_detail2.jpg",
+            "ultra_boost_white_detail3.jpg",
+            "ultra_boost_white_detail4.jpg",
+            "ultra_boost_white_detail5.jpg",
+            "ultra_boost_white_detail6.jpg",
+            "ultra_boost_white_detail7.jpg",
+            "ultra_boost_white_detail8.jpg"
+          ],
+          "price": 150.99
+        }
+     
+      ]
+    },
+    {
+      "id": "5",
+      "brand": "Adidas",
+      "name": "Ultra Boost",
+      "variations": [
+        {
+          "size": 9,
+          "gender": "Men",
+          "color": "White",
+          "mainImage": "ultra_boost_white.jpg",
+          "detailsImages": [
+            "ultra_boost_white_detail1.jpg",
+            "ultra_boost_white_detail2.jpg",
+            "ultra_boost_white_detail3.jpg",
+            "ultra_boost_white_detail4.jpg",
+            "ultra_boost_white_detail5.jpg",
+            "ultra_boost_white_detail6.jpg",
+            "ultra_boost_white_detail7.jpg",
+            "ultra_boost_white_detail8.jpg"
+          ],
+          "price": 150.99
+        }
+     
+      ]
+    },
+    {
+      "id": "3",
+      "brand": "Puma",
+      "name": "RS-X",
+      "variations": [
+        {
+          "size": 7,
+          "gender": "Women",
+          "color": "Red",
+          "mainImage": "rs_x_red.jpg",
+          "detailsImages": [
+            "rs_x_red_detail1.jpg",
+            "rs_x_red_detail2.jpg",
+            "rs_x_red_detail3.jpg",
+            "rs_x_red_detail4.jpg",
+            "rs_x_red_detail5.jpg",
+            "rs_x_red_detail6.jpg",
+            "rs_x_red_detail7.jpg",
+            "rs_x_red_detail8.jpg"
+          ],
+          "price": 89.99
+        }
+      
+      ]
+    }
+  
+  ]
+}
